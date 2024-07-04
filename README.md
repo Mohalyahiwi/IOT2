@@ -15,3 +15,4 @@ serv motor*6
 ESP32
 breadboard
 wires 
+*note for now we are using power from the usb which is 5 volt for both ways
